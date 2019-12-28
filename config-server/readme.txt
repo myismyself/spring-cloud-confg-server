@@ -1,0 +1,1 @@
+this is a about config-server of springcloud
